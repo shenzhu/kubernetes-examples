@@ -1,1 +1,1 @@
-# kubernetes-in-action
+# kubernetes-examples
